@@ -82,4 +82,3 @@ The goal of this dashboard is to understand:
 
 This project was created to practice real-world business data analysis using Power BI. It focuses on simplicity and decision-making based on data rather than just creating visuals.
 
--
