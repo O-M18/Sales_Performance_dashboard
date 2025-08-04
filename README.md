@@ -1,5 +1,5 @@
 
-# Sales Performance Dashboard – Task 8
+# Sales Performance Dashboard 
 
 This project is a **Power BI dashboard** created to analyze and visualize sales data across different categories, regions, and months. It provides an easy-to-understand snapshot of how the business is performing and highlights areas of improvement.
 
